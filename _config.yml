@@ -2,7 +2,7 @@
 page_title: 회독으로 반드시 암기하는 단어장 앱 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 1234793120 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: ko # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -27,7 +27,7 @@ facebook_username:
 instagram_username: ebaehr
 twitter_username: ebaehr
 github_username: emilbaehr
-youtube_username:
+youtube_username: emilbaehr
 mastodon_link: https://mastodon.social/@ebaehr
 
 # Feature List                            Edit, add or remove features to be presented.
