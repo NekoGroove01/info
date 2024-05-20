@@ -60,18 +60,6 @@ features:
     description: 세부적인 분석을 통해 학습 여정을 모니터링하세요. LexiQuest는 여러분의 진행 상황을 파악하여 강점과 개선이 필요한 부분을 알려줍니다 📊.
     fontawesome_icon_name: arrow-alt-circle-down
 
-  - title: 커뮤니티와 소셜 학습
-    description: 활기찬 학습자 커뮤니티에 참여하세요. 성취를 공유하고, 팁을 교환하며, 단어를 사랑하는 친구들과 함께 학습을 더 즐겁게 만드세요.
-    fontawesome_icon_name: link
-
-  - title: 안전한 학습 환경
-    description: LexiQuest는 여러분의 프라이버시를 최우선으로 생각합니다. 여러분의 데이터는 안전하게 보호되며, 광고 없이 쾌적한 학습 환경을 제공합니다 🚫.
-    fontawesome_icon_name: info-circle
-
-  - title: # New Feature Title
-    description: # New Feature Description
-    fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
 # Theme Settings
 topbar_color: "#000000"
 topbar_transparency: 0.1
