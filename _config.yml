@@ -33,31 +33,27 @@ mastodon_link: https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: 최고의 강사들이 큐레이팅한 단어들
-    description: LexiQuest는 풍부한 학습 경험을 위해 최고의 강사들과 협력하여 제작되었습니다. 강사들이 직접 선정한 단어들로 구성된 단어장을 통해 엄선된 단어를 학습해보세요.
+    description: 최고의 강사들이 직접 선정한 단어들로 구성된 단어장을 통해 엄선된 단어를 학습하세요.
     fontawesome_icon_name: magic
 
-  - title: 인터렉티브 학습 환경
-    description: 새로운 단어를 쉽게 기억하고 이해할 수 있도록 퀴즈, 플래시카드, 게임 같은 인터랙티브 활동으로 가득 찬 학습 환경에 빠져보세요.
+  - title: 다회독으로 쉽게 암기
+    description: 새로운 단어를 쉽게 기억하고 이해할 수 있도록 다회독 기능을 제공합니다.
     fontawesome_icon_name: mobile
 
   - title: 맞춤형 단어 리스트
-    description: 맞춤형 단어 리스트로 학습 여정을 개인화하세요. 좋아하는 단어를 저장하고, 개인 노트를 추가하고, 새로운 단어를 배우면서 진행 상황을 추적할 수 있습니다.
+    description: 맞춤형 단어 리스트로 여러분의 학습 수준에 맞춰진 단어를 학습하세요.\n또한, 단어 리스트를 직접 만들어 관리할 수 있습니다.
     fontawesome_icon_name: play-circle
 
   - title: 풍부한 멀티미디어 콘텐츠
-    description: 오디오 발음, 예문, 시각 자료 등 풍부한 멀티미디어 콘텐츠로 각 단어를 생동감 있게 느끼고 깊이 이해할 수 있어요.
+    description: 오디오 발음, 예문, 시각 자료 등 풍부한 멀티미디어 콘텐츠로 단어를 더욱 쉽게 기억할 수 있습니다.
     fontawesome_icon_name: sync
 
   - title: 데일리 단어 챌린지
-    description: 매일 새로운 단어로 실력을 키워보세요. 각 챌린지는 여러분의 학습 수준에 맞춰져 있어 지속적인 성장과 흥미를 보장합니다 😊
+    description: 매일 새로운 단어로 지속적인 성장과 흥미를 보장합니다.
     fontawesome_icon_name: adjust
 
-  - title: 다양한 기기에서 학습
-    description: LexiQuest는 여러분의 학습 진행 상황을 모든 기기에서 동기화해요. 핸드폰, 태블릿, PC 어디서든 학습을 이어갈 수 있어요!
-    fontawesome_icon_name: star
-
   - title: 학습 결과 추적 및 분석
-    description: 세부적인 분석을 통해 학습 여정을 모니터링하세요. LexiQuest는 여러분의 진행 상황을 파악하여 강점과 개선이 필요한 부분을 알려줍니다 📊.
+    description: 세부적인 분석을 통해 학습 결과를 모니터링하세요.
     fontawesome_icon_name: arrow-alt-circle-down
 
 # Theme Settings
