@@ -1,5 +1,5 @@
 #page title
-page_title: 선생님과 함께하는 스마트 단어장 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: 강사들과 함께하는 스마트 단어장 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id: # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/logo.svg # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: LexiQuest # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: For Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: 선생님과 함께하는 스마트 단어장
+app_description: 강사들과 함께하는 스마트 단어장
 # 후보군
 # 선생님과 함께하는 스마트 단어장
 # 반드시 암기하는 단어장 앱
