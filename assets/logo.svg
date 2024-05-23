@@ -1,14 +1,18 @@
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background color (Pastel Blue) -->
-  <rect width="200" height="200" rx="20" ry="20" fill="#A7C7E7" />
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Circle -->
+  <circle cx="100" cy="100" r="90" stroke="#3B82F6" stroke-width="10" fill="none" />
+  
+  <!-- Inner Book Element (Open Book) -->
+  <path d="M70 70 L130 70 L100 120 Z" fill="#10B981" />
+  <path d="M70 70 C60 90, 60 110, 70 120 L100 120" fill="#10B981" />
+  <path d="M130 70 C140 90, 140 110, 130 120 L100 120" fill="#10B981" />
 
-  <!-- Logo: Stylized 'L' with an iterative arrow -->
-  <g transform="translate(50, 45)">
-    <!-- Circle outline for iteration theme -->
-    <circle cx="50" cy="50" r="50" fill="none" stroke="white" stroke-width="10" />
-    <!-- Arrow part -->
-    <path d="M50,0 L50,50 L100,50" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
-    <!-- Stylized 'L' -->
-    <path d="M50,100 L50,60" stroke="white" stroke-width="10" stroke-linecap="round" />
-  </g>
+  <!-- Stylized Q (Representing Quest) -->
+  <path d="M100 40 A60 60 0 1 0 140 140" fill="none" stroke="#3B82F6" stroke-width="10" />
+  <line x1="140" y1="140" x2="175" y2="175" stroke="#3B82F6" stroke-width="10" />
+
+  <!-- Speech Bubble Element -->
+  <path d="M85 145 C85 160, 115 160, 115 145 L115 130 L85 130 Z" fill="#3B82F6" />
+  <circle cx="100" cy="137" r="3" fill="white" />
+
 </svg>
