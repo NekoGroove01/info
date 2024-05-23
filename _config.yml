@@ -13,7 +13,7 @@ presskit_download_link:
 
 app_icon: assets/logo.svg # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: LexiQuest # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price: For Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price: In app purchase # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: 강사들과 함께하는 스마트 단어장
 # 후보군
 # 선생님과 함께하는 스마트 단어장
